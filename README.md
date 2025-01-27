@@ -45,7 +45,7 @@ I thrive on leveraging technology to design innovative solutions that optimize b
 ---
 
 ## 🎓 **Education**  
-🎓 **B.Tech** | Parul University, Vadodara, Gujarat | **7.54 CGPA** (2020 - 2024)  
+🎓 **B.Tech** | Parul University, Vadodara, Gujarat | **7.60 CGPA** (2020 - 2024)  
 📘 **Intermediate** | FIITJEE, Vijayawada | **9.21 CGPA** (2018 - 2020)  
 📗 **CBSE** | Abhyas The Global School, Bhimavaram | **87.6%** (2017 - 2018)  
 
