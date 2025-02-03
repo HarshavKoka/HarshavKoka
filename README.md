@@ -8,7 +8,7 @@ I thrive on leveraging technology to design innovative solutions that optimize b
 🌱 Currently learning: **React.js**, **SQL**, **Python**, **JavaScript**  
 💡 Skilled in: **Web Development**, **Frontend Design**, **Software Development**  
 🧠 Interested in: **Artificial Intelligence**, **HR Technologies**, **Web Technologies**  
-📚 Continuously exploring emerging trends to deliver high-quality, scalable solutions  
+📚 Continuously exploring emerging trends to deliver high-quality, caluclatable solutions  
 🎯 Mission: To create impactful software solutions that bridge technology and organizational needs  
 
 ---
