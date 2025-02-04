@@ -1,6 +1,6 @@
 # Hi 👋, I'm Koka Harsha Vardhan  
 🌟 **Aspiring Software Engineer | AI Enthusiast**  
-I thrive on leveraging technology to design innovative solutions that optimize business processes, enhance user experience, and drive organizational growth.  
+I thrive on leveraging technology to design innovative solutions that optimize business processes, enhance user experience, and drive organizational growth.I am a team player.
 
 ---
 
