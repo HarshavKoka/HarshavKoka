@@ -66,5 +66,5 @@ I thrive on leveraging technology to design innovative solutions that optimize b
 
 ## ✉️ **How to Reach Me**  
 📧 Emails:kokaharsha2203@gmail.com,kokaharshavardhan@gmail.com
-📞 Phone: 9121560884,8555924869
+📞 Phone: 8555924869,9121560884
 📍 Address: H.No: 1-16B, Pedalanka, Kalidindi Mandal, Krishna District, Andhra Pradesh, India - 521344  
