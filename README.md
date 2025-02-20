@@ -58,7 +58,7 @@ I thrive on leveraging technology to design innovative solutions that optimize b
 
 ---
 
-🏅 Achievements
+## 🏅 **Achievements**
 
 -Led student clubs and participated in debates and tech symposiums, fostering problem-solving and collaboration.
 
