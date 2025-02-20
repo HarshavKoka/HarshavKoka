@@ -58,6 +58,14 @@ I thrive on leveraging technology to design innovative solutions that optimize b
 
 ---
 
+🏅 Achievements
+
+-Led student clubs and participated in debates and tech symposiums, fostering problem-solving and collaboration.
+
+-Led my school’s House, organizing and managing teams for sports, cultural events, and academic competitions, fostering teamwork and discipline.
+
+---
+
 ## 🌐 **Connect with Me**  
 - 💼 **GitHub**: [Harsha Vardhan Koka](https://github.com/HarshavKoka)  
 - 🔗 **LinkedIn**: [Koka Harsha Vardhan](https://www.linkedin.com/in/harsha-vardhan-koka-b03883281)  
