@@ -14,7 +14,7 @@ inclusive digital environment."
 🌱 Currently learning: **React.js**, **SQL**, **Python**, **JavaScript**  
 💡 Skilled in: **Web Development**, **Frontend Design**, **Software Development**  
 🧠 Interested in: **Artificial Intelligence**, **HR Technologies**, **Web Technologies**,**Content Moderation**,**Trust&Safety Operations**  
-📚 Continuously exploring emerging trends to deliver high-quality,scalable solutions  
+📚 Continuously exploring emerging trends to deliver high-quality,scalable solutions,management skills
 🎯 Mission: To create impactful software solutions that bridge technology and organizational needs  
 
 ---
