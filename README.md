@@ -60,7 +60,7 @@ inclusive digital environment."
 ## 🏆 **Certifications**  
 📜 CSS, Bootstrap, and JavaScript  
 📜 Python Stack Course (Udemy)  
-📜 Infosys Springboard  
+📜 Infosys Springboard 
 
 ---
 
