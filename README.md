@@ -22,7 +22,7 @@ inclusive digital environment."
 
 ## 🔧 **Skills**  
 💻 Programming: **Python**, **JavaScript**, **SQL**  
-🌐 Web Development: **HTML**, **CSS**, **React.js**  
+🌐 Web Development: **HTML**, **CSS**, **React.js** , **TypeScript**  
 📊 Tools: **Bootstrap**, **Git**  
 🌍 Languages: **English**, **Telugu**, **Hindi**  
 
